@@ -4,8 +4,7 @@
 ## PROJECT DESCRIPTION
 
 
-<object data="Churn Modeling Report.pdf" type="application/pdf" width="100%"> 
-</object>
+embed src="Churn Modeling Report.pdf" type="application/pdf">
 
 
 ## ACKNOWLEDGEMENT
