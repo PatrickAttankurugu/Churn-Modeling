@@ -4,7 +4,7 @@
 ## PROJECT DESCRIPTION
 
 
-embed src="Churn Modeling Report.pdf" type="application/pdf">
+<embed src="Churn Modeling Report.pdf" type="application/pdf">
 
 
 ## ACKNOWLEDGEMENT
