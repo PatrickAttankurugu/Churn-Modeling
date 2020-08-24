@@ -3,7 +3,7 @@
 
 ## PROJECT DESCRIPTION
 
-Please click [here](index.html) to view the report
+Please click [here](Report.pdf) to view the report
 
 
 
