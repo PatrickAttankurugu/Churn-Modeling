@@ -3,8 +3,8 @@
 
 ## PROJECT DESCRIPTION
 
+Please click [here](index.html) to view the report
 
-<embed src="Churn Modeling Report.pdf" type="application/pdf">
 
 
 ## ACKNOWLEDGEMENT
